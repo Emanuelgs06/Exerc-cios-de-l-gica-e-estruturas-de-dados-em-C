@@ -1,1 +1,1 @@
-# Exerc-cios-de-l-gica-e-estruturas-de-dados-em-C
+# LÓGICA E ESTRUTURA DE DADOS EM C
